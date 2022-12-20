@@ -1,5 +1,5 @@
 # Hotel Management Django App
-Hotel room booking and management app in Django(Python).
+Aj Hotel room booking and management app in Django(Python).
 
 # Features
 - Material design based UI.
